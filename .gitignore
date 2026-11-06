@@ -1,0 +1,20 @@
+# Pliki powstające podczas kompilacji
+Debug/
+Release/
+
+# Pliki tymczasowe
+*.o
+*.d
+*.elf
+*.bin
+*.hex
+*.map
+*.su
+
+# Ustawienia lokalne
+.metadata/
+.idea/
+.vscode/
+
+SR_projekt.pdf
+SR_projekt.txt
